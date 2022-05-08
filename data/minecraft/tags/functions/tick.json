@@ -1,6 +1,6 @@
 {
     "replace": false,
     "values": [
-        "s4conveyor:core/tick"
+        "s4conveyor:core/_/tick"
     ]
 }

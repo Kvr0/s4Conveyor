@@ -1,6 +1,6 @@
 {
     "replace": false,
     "values": [
-        "s4conveyor:core/load"
+        "s4conveyor:core/_/load"
     ]
 }
